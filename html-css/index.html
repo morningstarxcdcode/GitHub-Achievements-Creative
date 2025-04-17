@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HTML and CSS Example</title>
+    <title>GitHub Achievements Creative</title>
     <link rel="stylesheet" href="styles.css">
     <style>
         .grid-container {
@@ -18,14 +18,28 @@
     </style>
 </head>
 <body>
-    <h1>Hello from HTML!</h1>
-    <p>This is an example of an HTML file.</p>
+    <h1>GitHub Achievements</h1>
+    <p>Explore your achievements in a fun and interactive way!</p>
     <div id="animationArea" class="grid-container">
-        <!-- Unique items will be displayed here -->
-        <img src="path/to/badge1.png" alt="Badge 1" class="badge">
-        <img src="path/to/badge2.png" alt="Badge 2" class="badge">
-        <img src="path/to/badge3.png" alt="Badge 3" class="badge">
-        <!-- Add more badges up to 1024 -->
+        <!-- Badges will be dynamically loaded here -->
     </div>
+
+    <script>
+        const badges = [
+            { src: "path/to/badge1.png", alt: "Badge 1" },
+            { src: "path/to/badge2.png", alt: "Badge 2" },
+            { src: "path/to/badge3.png", alt: "Badge 3" },
+            // Add more badge objects up to 1200
+        ];
+
+        const animationArea = document.getElementById('animationArea');
+        badges.forEach(badge => {
+            const img = document.createElement('img');
+            img.src = badge.src;
+            img.alt = badge.alt;
+            img.className = 'badge';
+            animationArea.appendChild(img);
+        });
+    </script>
 </body>
 </html>
