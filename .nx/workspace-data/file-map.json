@@ -1,0 +1,2047 @@
+{
+  "version": "6.0",
+  "nxVersion": "20.8.0",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": "assets/badge239.txt",
+        "hash": "14594121819091060513"
+      },
+      {
+        "file": "assets/badge290.txt",
+        "hash": "5009947544873128298"
+      },
+      {
+        "file": "assets/badge3.txt",
+        "hash": "196782101723559485"
+      },
+      {
+        "file": "assets/badge139.txt",
+        "hash": "3990599232274567223"
+      },
+      {
+        "file": "assets/badge426.txt",
+        "hash": "6254534354426979210"
+      },
+      {
+        "file": "assets/badge81.txt",
+        "hash": "50048430142166157"
+      },
+      {
+        "file": "assets/badge280.txt",
+        "hash": "12028974006462935934"
+      },
+      {
+        "file": "assets/badge341.txt",
+        "hash": "2202621371642885366"
+      },
+      {
+        "file": "assets/badge98.txt",
+        "hash": "1119739529584055461"
+      },
+      {
+        "file": "assets/badge379.txt",
+        "hash": "15189699813018792971"
+      },
+      {
+        "file": "assets/badge294.txt",
+        "hash": "4190201190941892473"
+      },
+      {
+        "file": "assets/badge92.txt",
+        "hash": "4504958127971612777"
+      },
+      {
+        "file": "assets/badge409.txt",
+        "hash": "5259974972327625016"
+      },
+      {
+        "file": "assets/badge162.txt",
+        "hash": "2812252607573967309"
+      },
+      {
+        "file": "assets/badge345.txt",
+        "hash": "2226262080701238772"
+      },
+      {
+        "file": "assets/badge225.txt",
+        "hash": "10628306766565855981"
+      },
+      {
+        "file": "assets/badge470.txt",
+        "hash": "14179366765853277495"
+      },
+      {
+        "file": "assets/badge203.txt",
+        "hash": "10567929040276609990"
+      },
+      {
+        "file": "assets/badge250.txt",
+        "hash": "5850471031782590902"
+      },
+      {
+        "file": "assets/badge51.txt",
+        "hash": "5620062179684742269"
+      },
+      {
+        "file": "assets/badge209.txt",
+        "hash": "13951862395661326845"
+      },
+      {
+        "file": "assets/badge402.txt",
+        "hash": "4467856020040542149"
+      },
+      {
+        "file": "assets/badge395.txt",
+        "hash": "12193159396271563109"
+      },
+      {
+        "file": "assets/badge20.txt",
+        "hash": "7666195264082538371"
+      },
+      {
+        "file": "assets/badge215.txt",
+        "hash": "3507722203549841234"
+      },
+      {
+        "file": "assets/badge365.txt",
+        "hash": "1117607026031107885"
+      },
+      {
+        "file": "assets/badge70.txt",
+        "hash": "14459964508041222220"
+      },
+      {
+        "file": "sql/example.sql",
+        "hash": "14768860103327067990"
+      },
+      {
+        "file": "assets/badge13.txt",
+        "hash": "8360224760866509558"
+      },
+      {
+        "file": "assets/badge342.txt",
+        "hash": "4824052616742649525"
+      },
+      {
+        "file": "assets/badge50.txt",
+        "hash": "467969282490246569"
+      },
+      {
+        "file": "assets/badge464.txt",
+        "hash": "7982007157411081485"
+      },
+      {
+        "file": "assets/badge24.txt",
+        "hash": "2892694295140166467"
+      },
+      {
+        "file": "assets/badge198.txt",
+        "hash": "13165239553650118798"
+      },
+      {
+        "file": "assets/badge382.txt",
+        "hash": "17491569493721385052"
+      },
+      {
+        "file": "csharp/Example.cs",
+        "hash": "5762486638576886376"
+      },
+      {
+        "file": "assets/badge440.txt",
+        "hash": "13312214748813906925"
+      },
+      {
+        "file": "assets/badge37.txt",
+        "hash": "5361097581270641131"
+      },
+      {
+        "file": "assets/badge393.txt",
+        "hash": "5379953756697996617"
+      },
+      {
+        "file": "assets/badge172.txt",
+        "hash": "10184465381648175222"
+      },
+      {
+        "file": "assets/badge131.txt",
+        "hash": "16860471800365600321"
+      },
+      {
+        "file": "assets/badge351.txt",
+        "hash": "11152671156222864742"
+      },
+      {
+        "file": "assets/badge450.txt",
+        "hash": "6533217214774310885"
+      },
+      {
+        "file": "assets/badge310.txt",
+        "hash": "9187271584095635418"
+      },
+      {
+        "file": "go/example.go",
+        "hash": "15934850976992181898"
+      },
+      {
+        "file": "assets/badge197.txt",
+        "hash": "14950957358393104466"
+      },
+      {
+        "file": "assets/badge22.txt",
+        "hash": "8834822841138639362"
+      },
+      {
+        "file": "assets/badge201.txt",
+        "hash": "14937767197359863303"
+      },
+      {
+        "file": "assets/badge30.txt",
+        "hash": "14125896763492677924"
+      },
+      {
+        "file": "assets/badge259.txt",
+        "hash": "16254493013224484951"
+      },
+      {
+        "file": "assets/badge16.txt",
+        "hash": "7976305641728505935"
+      },
+      {
+        "file": "assets/badge44.txt",
+        "hash": "3824843619620675602"
+      },
+      {
+        "file": "assets/badge240.txt",
+        "hash": "3019992046680818910"
+      },
+      {
+        "file": "nx",
+        "hash": "17165975525224888679"
+      },
+      {
+        "file": "assets/badge416.txt",
+        "hash": "9327664294403894172"
+      },
+      {
+        "file": "assets/badge356.txt",
+        "hash": "10106603591992360765"
+      },
+      {
+        "file": "assets/badge396.txt",
+        "hash": "11043576695414564420"
+      },
+      {
+        "file": "assets/badge222.txt",
+        "hash": "3738847544951645523"
+      },
+      {
+        "file": "assets/badge339.txt",
+        "hash": "16952033105156503010"
+      },
+      {
+        "file": "assets/badge454.txt",
+        "hash": "10045534344668467571"
+      },
+      {
+        "file": "assets/badge444.txt",
+        "hash": "10073220690986748776"
+      },
+      {
+        "file": "assets/badge118.txt",
+        "hash": "7397433902124265992"
+      },
+      {
+        "file": "assets/badge287.txt",
+        "hash": "16373815249012842690"
+      },
+      {
+        "file": "assets/badge112.txt",
+        "hash": "6592918242922412484"
+      },
+      {
+        "file": "assets/badge353.txt",
+        "hash": "9154895876628089388"
+      },
+      {
+        "file": "assets/badge389.txt",
+        "hash": "17963522016851143739"
+      },
+      {
+        "file": "assets/badge236.txt",
+        "hash": "1733218608431461660"
+      },
+      {
+        "file": "assets/badge228.txt",
+        "hash": "13481538848967571810"
+      },
+      {
+        "file": "assets/badge224.txt",
+        "hash": "10609275762020337129"
+      },
+      {
+        "file": "assets/badge205.txt",
+        "hash": "7635874725585999799"
+      },
+      {
+        "file": "assets/badge348.txt",
+        "hash": "6193393062778196853"
+      },
+      {
+        "file": "assets/badge248.txt",
+        "hash": "4020996346092169437"
+      },
+      {
+        "file": "assets/badge362.txt",
+        "hash": "7822102687393981114"
+      },
+      {
+        "file": "assets/badge54.txt",
+        "hash": "13736457134358020576"
+      },
+      {
+        "file": "assets/badge302.txt",
+        "hash": "8010802478356927345"
+      },
+      {
+        "file": "assets/badge163.txt",
+        "hash": "33325689212188755"
+      },
+      {
+        "file": "assets/badge438.txt",
+        "hash": "11161224179450574185"
+      },
+      {
+        "file": "assets/badge157.txt",
+        "hash": "11156669128518337196"
+      },
+      {
+        "file": "assets/badge65.txt",
+        "hash": "14066895658377781818"
+      },
+      {
+        "file": "assets/badge391.txt",
+        "hash": "16743889503048183981"
+      },
+      {
+        "file": "assets/badge331.txt",
+        "hash": "16291214391248977389"
+      },
+      {
+        "file": "assets/badge136.txt",
+        "hash": "8399571345433206969"
+      },
+      {
+        "file": "assets/badge376.txt",
+        "hash": "9565610087980976203"
+      },
+      {
+        "file": "assets/badge394.txt",
+        "hash": "7527184296664082336"
+      },
+      {
+        "file": "assets/badge107.txt",
+        "hash": "2343412738141086325"
+      },
+      {
+        "file": "assets/badge314.txt",
+        "hash": "14064229610013277850"
+      },
+      {
+        "file": "assets/badge344.txt",
+        "hash": "13821412286822940426"
+      },
+      {
+        "file": "assets/badge423.txt",
+        "hash": "16102415838825933072"
+      },
+      {
+        "file": "kotlin/Example.kt",
+        "hash": "14192976253952188716"
+      },
+      {
+        "file": "assets/badge317.txt",
+        "hash": "9261203601426838878"
+      },
+      {
+        "file": "assets/badge45.txt",
+        "hash": "5516143052168369642"
+      },
+      {
+        "file": "assets/badge231.txt",
+        "hash": "13244420236494154249"
+      },
+      {
+        "file": "assets/badge293.txt",
+        "hash": "4202406505762283899"
+      },
+      {
+        "file": "assets/badge422.txt",
+        "hash": "10608060883347323446"
+      },
+      {
+        "file": "assets/badge244.txt",
+        "hash": "15274918895867956656"
+      },
+      {
+        "file": "assets/badge412.txt",
+        "hash": "406211205929656137"
+      },
+      {
+        "file": "assets/badge4.txt",
+        "hash": "10823719163514871896"
+      },
+      {
+        "file": "assets/badge325.txt",
+        "hash": "3618541597409553048"
+      },
+      {
+        "file": "assets/badge281.txt",
+        "hash": "8905709041324072259"
+      },
+      {
+        "file": "assets/badge385.txt",
+        "hash": "12570055477299134853"
+      },
+      {
+        "file": "assets/badge352.txt",
+        "hash": "2251681481364047402"
+      },
+      {
+        "file": "assets/badge433.txt",
+        "hash": "9775540719770295192"
+      },
+      {
+        "file": "assets/badge60.txt",
+        "hash": "13445754855636307454"
+      },
+      {
+        "file": "assets/badge202.txt",
+        "hash": "16187833269790447074"
+      },
+      {
+        "file": "java/Example.java",
+        "hash": "7103264916422560066"
+      },
+      {
+        "file": "assets/badge19.txt",
+        "hash": "17506934079169905887"
+      },
+      {
+        "file": "assets/badge275.txt",
+        "hash": "2171589204118184054"
+      },
+      {
+        "file": "assets/badge475.txt",
+        "hash": "462456294786479580"
+      },
+      {
+        "file": "assets/badge15.txt",
+        "hash": "3050226970677618451"
+      },
+      {
+        "file": "assets/badge420.txt",
+        "hash": "722649921385536461"
+      },
+      {
+        "file": "assets/badge18.txt",
+        "hash": "16434603137610543387"
+      },
+      {
+        "file": "assets/badge320.txt",
+        "hash": "17872675269510012684"
+      },
+      {
+        "file": "assets/badge119.txt",
+        "hash": "875865144441633978"
+      },
+      {
+        "file": "assets/badge297.txt",
+        "hash": "9258528604180434674"
+      },
+      {
+        "file": "assets/badge473.txt",
+        "hash": "9876512487059525285"
+      },
+      {
+        "file": "assets/badge386.txt",
+        "hash": "4199206764704539394"
+      },
+      {
+        "file": "assets/badge378.txt",
+        "hash": "7201508102300339658"
+      },
+      {
+        "file": "assets/badge9.txt",
+        "hash": "2648958817344038699"
+      },
+      {
+        "file": "assets/badge403.txt",
+        "hash": "5365779506629562852"
+      },
+      {
+        "file": "assets/badge428.txt",
+        "hash": "2268259374747726929"
+      },
+      {
+        "file": "assets/badge130.txt",
+        "hash": "13858977444495936411"
+      },
+      {
+        "file": "assets/badge95.txt",
+        "hash": "1912221162087925878"
+      },
+      {
+        "file": "assets/badge76.txt",
+        "hash": "10084460865216686917"
+      },
+      {
+        "file": "assets/badge149.txt",
+        "hash": "17811931110641184113"
+      },
+      {
+        "file": "assets/badge241.txt",
+        "hash": "4393832225876529996"
+      },
+      {
+        "file": "assets/badge66.txt",
+        "hash": "2081996784201347464"
+      },
+      {
+        "file": "assets/badge179.txt",
+        "hash": "16687030476689906560"
+      },
+      {
+        "file": "html-css/index.html",
+        "hash": "4772060336934795829"
+      },
+      {
+        "file": "assets/badge437.txt",
+        "hash": "7072359482263061099"
+      },
+      {
+        "file": "assets/badge355.txt",
+        "hash": "4705439510023012788"
+      },
+      {
+        "file": "assets/badge67.txt",
+        "hash": "10520433219314404426"
+      },
+      {
+        "file": "assets/badge200.txt",
+        "hash": "4791094332646769322"
+      },
+      {
+        "file": "assets/badge84.txt",
+        "hash": "15624129913016404337"
+      },
+      {
+        "file": "assets/badge56.txt",
+        "hash": "9046995475997877796"
+      },
+      {
+        "file": "assets/badge58.txt",
+        "hash": "14063930376495056181"
+      },
+      {
+        "file": "assets/badge304.txt",
+        "hash": "12660267039217982597"
+      },
+      {
+        "file": "assets/badge152.txt",
+        "hash": "7741043845589081860"
+      },
+      {
+        "file": "assets/badge177.txt",
+        "hash": "17774023227480054676"
+      },
+      {
+        "file": "assets/badge42.txt",
+        "hash": "14949603047604410287"
+      },
+      {
+        "file": "assets/badge97.txt",
+        "hash": "17312526856635070783"
+      },
+      {
+        "file": "assets/badge153.txt",
+        "hash": "6242714019992230869"
+      },
+      {
+        "file": "assets/badge226.txt",
+        "hash": "142947089257436505"
+      },
+      {
+        "file": "assets/badge371.txt",
+        "hash": "14870270019816851279"
+      },
+      {
+        "file": "assets/badge431.txt",
+        "hash": "8767962371340537381"
+      },
+      {
+        "file": "assets/badge194.txt",
+        "hash": "2465076740322141201"
+      },
+      {
+        "file": "assets/badge40.txt",
+        "hash": "12645148181574053410"
+      },
+      {
+        "file": "assets/badge381.txt",
+        "hash": "15436080862535071816"
+      },
+      {
+        "file": "assets/badge108.txt",
+        "hash": "9792334233005642622"
+      },
+      {
+        "file": "assets/badge472.txt",
+        "hash": "14436176107493992264"
+      },
+      {
+        "file": "assets/badge34.txt",
+        "hash": "6201131910939787842"
+      },
+      {
+        "file": "assets/badge101.txt",
+        "hash": "203805412194503034"
+      },
+      {
+        "file": "assets/badge335.txt",
+        "hash": "14914392909977763761"
+      },
+      {
+        "file": "assets/badge117.txt",
+        "hash": "9061755294010105052"
+      },
+      {
+        "file": "assets/badge165.txt",
+        "hash": "9633899843423744557"
+      },
+      {
+        "file": "assets/badge434.txt",
+        "hash": "10725363441358845109"
+      },
+      {
+        "file": "assets/badge173.txt",
+        "hash": "347004393633648975"
+      },
+      {
+        "file": "assets/badge318.txt",
+        "hash": "8574910444066705440"
+      },
+      {
+        "file": "assets/badge148.txt",
+        "hash": "14316967856397347832"
+      },
+      {
+        "file": "assets/badge123.txt",
+        "hash": "31967148492240277"
+      },
+      {
+        "file": "assets/badge459.txt",
+        "hash": "6224968777227661258"
+      },
+      {
+        "file": "assets/badge377.txt",
+        "hash": "16377349771009789629"
+      },
+      {
+        "file": "assets/badge212.txt",
+        "hash": "744918861936905981"
+      },
+      {
+        "file": "dart/example.dart",
+        "hash": "8809109697662657648"
+      },
+      {
+        "file": "assets/badge436.txt",
+        "hash": "7147751936774636842"
+      },
+      {
+        "file": "assets/badge146.txt",
+        "hash": "1192056329317836013"
+      },
+      {
+        "file": "assets/badge268.txt",
+        "hash": "5948267235646620366"
+      },
+      {
+        "file": "assets/badge113.txt",
+        "hash": "16768754444386043343"
+      },
+      {
+        "file": "assets/badge106.txt",
+        "hash": "14189520245364364345"
+      },
+      {
+        "file": "assets/badge421.txt",
+        "hash": "5782782168132574808"
+      },
+      {
+        "file": "assets/badge46.txt",
+        "hash": "12070390557463687326"
+      },
+      {
+        "file": "assets/badge121.txt",
+        "hash": "72663064336908116"
+      },
+      {
+        "file": "assets/badge69.txt",
+        "hash": "16418546487371575298"
+      },
+      {
+        "file": "assets/badge89.txt",
+        "hash": "15750266682938124270"
+      },
+      {
+        "file": "assets/badge404.txt",
+        "hash": "2825578335556176569"
+      },
+      {
+        "file": "assets/badge127.txt",
+        "hash": "16374590526460144153"
+      },
+      {
+        "file": "assets/badge52.txt",
+        "hash": "5553234296798476156"
+      },
+      {
+        "file": "assets/badge301.txt",
+        "hash": "5886577302634849021"
+      },
+      {
+        "file": "assets/badge315.txt",
+        "hash": "15199881727059323966"
+      },
+      {
+        "file": "assets/badge399.txt",
+        "hash": "1119236187060236430"
+      },
+      {
+        "file": "assets/badge298.txt",
+        "hash": "3992053386233771018"
+      },
+      {
+        "file": "assets/badge383.txt",
+        "hash": "4923732396500456131"
+      },
+      {
+        "file": "assets/badge360.txt",
+        "hash": "3544021715183814694"
+      },
+      {
+        "file": "assets/badge327.txt",
+        "hash": "3068982337248347187"
+      },
+      {
+        "file": "assets/badge102.txt",
+        "hash": "15460147578694234233"
+      },
+      {
+        "file": "assets/badge31.txt",
+        "hash": "12093181053281729170"
+      },
+      {
+        "file": "assets/badge286.txt",
+        "hash": "12141916973209880756"
+      },
+      {
+        "file": "assets/badge249.txt",
+        "hash": "14855112521008779732"
+      },
+      {
+        "file": "assets/badge144.txt",
+        "hash": "12234733699090058455"
+      },
+      {
+        "file": "assets/badge261.txt",
+        "hash": "13311458715213428546"
+      },
+      {
+        "file": "assets/badge195.txt",
+        "hash": "8975443131818728725"
+      },
+      {
+        "file": "assets/badge465.txt",
+        "hash": "10879989827974561254"
+      },
+      {
+        "file": "assets/badge223.txt",
+        "hash": "15618772646336155450"
+      },
+      {
+        "file": "assets/badge278.txt",
+        "hash": "17830517129086136496"
+      },
+      {
+        "file": "assets/badge175.txt",
+        "hash": "15475598415976470326"
+      },
+      {
+        "file": "assets/badge469.txt",
+        "hash": "7292418887124289687"
+      },
+      {
+        "file": "assets/badge269.txt",
+        "hash": "9890117292903272849"
+      },
+      {
+        "file": "assets/badge316.txt",
+        "hash": "4118700724330867820"
+      },
+      {
+        "file": "assets/badge5.txt",
+        "hash": "1711833748290534492"
+      },
+      {
+        "file": "assets/badge155.txt",
+        "hash": "2912645455633477736"
+      },
+      {
+        "file": "assets/badge170.txt",
+        "hash": "15005639519944846808"
+      },
+      {
+        "file": "assets/badge322.txt",
+        "hash": "8772553093150658115"
+      },
+      {
+        "file": "yaml/example.yaml",
+        "hash": "17114134614259737823"
+      },
+      {
+        "file": "assets/badge71.txt",
+        "hash": "1153739275566648029"
+      },
+      {
+        "file": "assets/badge189.txt",
+        "hash": "5127227850654359628"
+      },
+      {
+        "file": "assets/badge406.txt",
+        "hash": "14960903160187599617"
+      },
+      {
+        "file": "assets/badge91.txt",
+        "hash": "7410895505924308398"
+      },
+      {
+        "file": "assets/badge308.txt",
+        "hash": "4089478654337060945"
+      },
+      {
+        "file": "assets/badge254.txt",
+        "hash": "7615686563325800582"
+      },
+      {
+        "file": "assets/badge104.txt",
+        "hash": "6720830238615277342"
+      },
+      {
+        "file": "assets/badge80.txt",
+        "hash": "2992256937496094581"
+      },
+      {
+        "file": "assets/badge392.txt",
+        "hash": "9041745270285206589"
+      },
+      {
+        "file": "assets/badge457.txt",
+        "hash": "12408011307877730148"
+      },
+      {
+        "file": "assets/badge227.txt",
+        "hash": "7318912296092455314"
+      },
+      {
+        "file": "assets/badge142.txt",
+        "hash": "360221671693881608"
+      },
+      {
+        "file": "assets/badge126.txt",
+        "hash": "17197437640649119428"
+      },
+      {
+        "file": "assets/badge277.txt",
+        "hash": "15623983496827817198"
+      },
+      {
+        "file": "assets/badge456.txt",
+        "hash": "17251776415681512933"
+      },
+      {
+        "file": "assets/badge176.txt",
+        "hash": "12703878817496170176"
+      },
+      {
+        "file": "assets/badge233.txt",
+        "hash": "398520594208561901"
+      },
+      {
+        "file": "assets/badge145.txt",
+        "hash": "9917902396057380994"
+      },
+      {
+        "file": "assets/badge55.txt",
+        "hash": "5476200814072842284"
+      },
+      {
+        "file": "assets/badge321.txt",
+        "hash": "12030427495262796956"
+      },
+      {
+        "file": "assets/badge374.txt",
+        "hash": "16796419197909802036"
+      },
+      {
+        "file": "assets/badge324.txt",
+        "hash": "5858528932326596272"
+      },
+      {
+        "file": "assets/badge463.txt",
+        "hash": "593003271709964003"
+      },
+      {
+        "file": "assets/badge235.txt",
+        "hash": "9161067137649492907"
+      },
+      {
+        "file": "nx.bat",
+        "hash": "16119536321561623970"
+      },
+      {
+        "file": "assets/badge334.txt",
+        "hash": "226006573620011146"
+      },
+      {
+        "file": "assets/badge41.txt",
+        "hash": "11671407869082237150"
+      },
+      {
+        "file": "assets/badge384.txt",
+        "hash": "12065117393481965649"
+      },
+      {
+        "file": "assets/badge432.txt",
+        "hash": "13432426555685888370"
+      },
+      {
+        "file": "assets/badge330.txt",
+        "hash": "3383125949900940662"
+      },
+      {
+        "file": "assets/badge180.txt",
+        "hash": "5458779358399063698"
+      },
+      {
+        "file": "assets/badge218.txt",
+        "hash": "2755112064237230562"
+      },
+      {
+        "file": "assets/badge387.txt",
+        "hash": "18043744807033404941"
+      },
+      {
+        "file": "assets/badge305.txt",
+        "hash": "16793274012002032650"
+      },
+      {
+        "file": "assets/badge461.txt",
+        "hash": "8076406594061534009"
+      },
+      {
+        "file": "assets/badge229.txt",
+        "hash": "2161501948117742697"
+      },
+      {
+        "file": "assets/badge35.txt",
+        "hash": "17912899630085811986"
+      },
+      {
+        "file": "assets/badge27.txt",
+        "hash": "17259158631047232949"
+      },
+      {
+        "file": "assets/badge446.txt",
+        "hash": "16822719589408551965"
+      },
+      {
+        "file": "assets/badge6.txt",
+        "hash": "2131265376925610852"
+      },
+      {
+        "file": "assets/badge147.txt",
+        "hash": "715120826233484744"
+      },
+      {
+        "file": "assets/badge166.txt",
+        "hash": "45558688740628931"
+      },
+      {
+        "file": "assets/badge125.txt",
+        "hash": "17881823610905779825"
+      },
+      {
+        "file": "assets/badge307.txt",
+        "hash": "6950312650836723457"
+      },
+      {
+        "file": "assets/badge59.txt",
+        "hash": "8073758985801705033"
+      },
+      {
+        "file": "assets/badge408.txt",
+        "hash": "4255037519344915583"
+      },
+      {
+        "file": "assets/badge312.txt",
+        "hash": "8745280983323396340"
+      },
+      {
+        "file": "assets/badge94.txt",
+        "hash": "12388462117553266873"
+      },
+      {
+        "file": "assets/badge90.txt",
+        "hash": "17520097070258953645"
+      },
+      {
+        "file": "assets/badge129.txt",
+        "hash": "15206989376434892212"
+      },
+      {
+        "file": "rust/example.rs",
+        "hash": "5177289160980525583"
+      },
+      {
+        "file": "assets/badge367.txt",
+        "hash": "5130043133663883304"
+      },
+      {
+        "file": "assets/badge291.txt",
+        "hash": "4634684800505986103"
+      },
+      {
+        "file": "assets/badge143.txt",
+        "hash": "8951290825800339210"
+      },
+      {
+        "file": "assets/badge138.txt",
+        "hash": "3758904909682415684"
+      },
+      {
+        "file": "unique_items.txt",
+        "hash": "13679867525329391015"
+      },
+      {
+        "file": "assets/badge137.txt",
+        "hash": "6980461778726540574"
+      },
+      {
+        "file": "assets/badge466.txt",
+        "hash": "1069354298114844838"
+      },
+      {
+        "file": "assets/badge178.txt",
+        "hash": "7419460852854268086"
+      },
+      {
+        "file": "json/example.json",
+        "hash": "12281737684126633995"
+      },
+      {
+        "file": "assets/badge439.txt",
+        "hash": "5380941166040554388"
+      },
+      {
+        "file": "assets/badge452.txt",
+        "hash": "7905387691621946046"
+      },
+      {
+        "file": "assets/badge370.txt",
+        "hash": "13904683522619334218"
+      },
+      {
+        "file": "javascript/example.js",
+        "hash": "5578350456147940587"
+      },
+      {
+        "file": "assets/badge328.txt",
+        "hash": "12121571584977413968"
+      },
+      {
+        "file": "assets/badge49.txt",
+        "hash": "11659965711987262818"
+      },
+      {
+        "file": "assets/badge368.txt",
+        "hash": "17660596244903799104"
+      },
+      {
+        "file": "assets/badge418.txt",
+        "hash": "9068313092487420113"
+      },
+      {
+        "file": "assets/badge364.txt",
+        "hash": "17006261148303170450"
+      },
+      {
+        "file": "assets/badge17.txt",
+        "hash": "12793775713839146805"
+      },
+      {
+        "file": "assets/badge448.txt",
+        "hash": "4773511760610094218"
+      },
+      {
+        "file": "assets/badge282.txt",
+        "hash": "18058574186643135987"
+      },
+      {
+        "file": "assets/badge74.txt",
+        "hash": "17215365423465347732"
+      },
+      {
+        "file": "assets/badge28.txt",
+        "hash": "18007794751923518155"
+      },
+      {
+        "file": "assets/badge388.txt",
+        "hash": "11329753727270676217"
+      },
+      {
+        "file": "assets/badge116.txt",
+        "hash": "1268181223090680484"
+      },
+      {
+        "file": "assets/badge411.txt",
+        "hash": "3618266379106972059"
+      },
+      {
+        "file": ".vscode/mcp.json",
+        "hash": "2242226052307725819"
+      },
+      {
+        "file": "assets/badge299.txt",
+        "hash": "15929488307389763549"
+      },
+      {
+        "file": "assets/badge174.txt",
+        "hash": "16359082778387943939"
+      },
+      {
+        "file": "assets/badge183.txt",
+        "hash": "15625709082944020997"
+      },
+      {
+        "file": "assets/badge10.txt",
+        "hash": "14350112309377541730"
+      },
+      {
+        "file": "assets/badge326.txt",
+        "hash": "16731510991271749177"
+      },
+      {
+        "file": "assets/badge151.txt",
+        "hash": "12414697077017548863"
+      },
+      {
+        "file": "assets/badge435.txt",
+        "hash": "14273807021575703127"
+      },
+      {
+        "file": "assets/badge449.txt",
+        "hash": "2803783662390032520"
+      },
+      {
+        "file": "assets/badge217.txt",
+        "hash": "15888814624782482821"
+      },
+      {
+        "file": "assets/badge184.txt",
+        "hash": "12177700597594395861"
+      },
+      {
+        "file": "assets/badge199.txt",
+        "hash": "11979564949374627905"
+      },
+      {
+        "file": "assets/badge238.txt",
+        "hash": "14342048242801048413"
+      },
+      {
+        "file": "assets/badge85.txt",
+        "hash": "13084407487485292316"
+      },
+      {
+        "file": "assets/badge407.txt",
+        "hash": "9841787361738475006"
+      },
+      {
+        "file": "assets/badge405.txt",
+        "hash": "6573890382382779195"
+      },
+      {
+        "file": "assets/badge93.txt",
+        "hash": "7487073387897127506"
+      },
+      {
+        "file": "assets/badge429.txt",
+        "hash": "14646481066243075779"
+      },
+      {
+        "file": "assets/badge182.txt",
+        "hash": "11542223844843258081"
+      },
+      {
+        "file": "assets/badge230.txt",
+        "hash": "6153258573232691220"
+      },
+      {
+        "file": "push_badges.sh",
+        "hash": "12238909892599344041"
+      },
+      {
+        "file": "assets/badge343.txt",
+        "hash": "13815174664303414834"
+      },
+      {
+        "file": "README.md",
+        "hash": "6971764580997416178"
+      },
+      {
+        "file": "assets/badge349.txt",
+        "hash": "17265934838571759416"
+      },
+      {
+        "file": "assets/badge110.txt",
+        "hash": "4946684523847455917"
+      },
+      {
+        "file": "assets/badge347.txt",
+        "hash": "15847927701542527744"
+      },
+      {
+        "file": "assets/badge100.txt",
+        "hash": "2704658250666777077"
+      },
+      {
+        "file": "assets/badge358.txt",
+        "hash": "8493059218292616528"
+      },
+      {
+        "file": "assets/badge372.txt",
+        "hash": "11535772855234280844"
+      },
+      {
+        "file": "assets/badge158.txt",
+        "hash": "7028409838117168597"
+      },
+      {
+        "file": "assets/badge263.txt",
+        "hash": "18206792162495558274"
+      },
+      {
+        "file": "assets/badge272.txt",
+        "hash": "14095444788256671995"
+      },
+      {
+        "file": "html-css/styles.css",
+        "hash": "14454482079553150171"
+      },
+      {
+        "file": "assets/badge87.txt",
+        "hash": "16394413828859401698"
+      },
+      {
+        "file": "assets/badge114.txt",
+        "hash": "9040389408873776192"
+      },
+      {
+        "file": "assets/badge124.txt",
+        "hash": "18270303231057604376"
+      },
+      {
+        "file": "assets/badge462.txt",
+        "hash": "6376851898717550807"
+      },
+      {
+        "file": "assets/badge43.txt",
+        "hash": "1595692165607630794"
+      },
+      {
+        "file": "assets/badge33.txt",
+        "hash": "1809238974123100401"
+      },
+      {
+        "file": "assets/badge134.txt",
+        "hash": "16514468847583504850"
+      },
+      {
+        "file": "assets/badge154.txt",
+        "hash": "6859621994965789791"
+      },
+      {
+        "file": "assets/badge346.txt",
+        "hash": "17537534821971537514"
+      },
+      {
+        "file": "assets/badge445.txt",
+        "hash": "4009004656793560712"
+      },
+      {
+        "file": "markdown/example.md",
+        "hash": "13903150925293909864"
+      },
+      {
+        "file": "assets/badge62.txt",
+        "hash": "11658518316842693289"
+      },
+      {
+        "file": "assets/badge1.txt",
+        "hash": "3241326235962328198"
+      },
+      {
+        "file": "index.html",
+        "hash": "2910293463917212522"
+      },
+      {
+        "file": "assets/badge75.txt",
+        "hash": "3049646995249858844"
+      },
+      {
+        "file": "assets/badge458.txt",
+        "hash": "425811263203611194"
+      },
+      {
+        "file": "assets/badge288.txt",
+        "hash": "6336368479357235433"
+      },
+      {
+        "file": "assets/badge82.txt",
+        "hash": "8868935158303771881"
+      },
+      {
+        "file": "assets/badge12.txt",
+        "hash": "1502651457586407597"
+      },
+      {
+        "file": "assets/badge185.txt",
+        "hash": "9018987743160433345"
+      },
+      {
+        "file": "assets/badge274.txt",
+        "hash": "7962149498492687007"
+      },
+      {
+        "file": "assets/badge319.txt",
+        "hash": "11346619751478936118"
+      },
+      {
+        "file": "assets/badge47.txt",
+        "hash": "8052468055195355256"
+      },
+      {
+        "file": "nx.json",
+        "hash": "5039184638322839139"
+      },
+      {
+        "file": "assets/badge270.txt",
+        "hash": "17647375719815053508"
+      },
+      {
+        "file": "assets/badge133.txt",
+        "hash": "1472446117685241419"
+      },
+      {
+        "file": "swift/example.swift",
+        "hash": "15404924965339067059"
+      },
+      {
+        "file": "assets/badge256.txt",
+        "hash": "16287057134398801787"
+      },
+      {
+        "file": "assets/badge169.txt",
+        "hash": "130777855099489080"
+      },
+      {
+        "file": "assets/badge410.txt",
+        "hash": "14113876151851064571"
+      },
+      {
+        "file": "assets/badge64.txt",
+        "hash": "18369769457352772333"
+      },
+      {
+        "file": "assets/badge122.txt",
+        "hash": "13996493091846018268"
+      },
+      {
+        "file": "assets/badge79.txt",
+        "hash": "7138751598503501557"
+      },
+      {
+        "file": "assets/badge443.txt",
+        "hash": "10329695623311977352"
+      },
+      {
+        "file": "assets/badge400.txt",
+        "hash": "6690700756132796128"
+      },
+      {
+        "file": "assets/badge207.txt",
+        "hash": "6970290183782989975"
+      },
+      {
+        "file": "assets/badge23.txt",
+        "hash": "725997155006950798"
+      },
+      {
+        "file": "assets/badge39.txt",
+        "hash": "2123784730029312265"
+      },
+      {
+        "file": "assets/badge284.txt",
+        "hash": "12899997651708141630"
+      },
+      {
+        "file": "assets/badge425.txt",
+        "hash": "10390951036521828464"
+      },
+      {
+        "file": "assets/badge53.txt",
+        "hash": "7548812999432790190"
+      },
+      {
+        "file": "assets/badge14.txt",
+        "hash": "1024496131823414812"
+      },
+      {
+        "file": "assets/badge369.txt",
+        "hash": "6206198081986333964"
+      },
+      {
+        "file": "assets/badge8.txt",
+        "hash": "5189341196255567024"
+      },
+      {
+        "file": "assets/badge415.txt",
+        "hash": "10431258555056815989"
+      },
+      {
+        "file": "assets/badge336.txt",
+        "hash": "15213141017714294627"
+      },
+      {
+        "file": "assets/badge309.txt",
+        "hash": "11042007666822409283"
+      },
+      {
+        "file": "assets/badge332.txt",
+        "hash": "13149507134706918769"
+      },
+      {
+        "file": "assets/badge210.txt",
+        "hash": "3144297064140038204"
+      },
+      {
+        "file": "assets/badge474.txt",
+        "hash": "42553023318362830"
+      },
+      {
+        "file": "assets/badge105.txt",
+        "hash": "1606646965665129184"
+      },
+      {
+        "file": "assets/badge285.txt",
+        "hash": "3962073362862483868"
+      },
+      {
+        "file": "assets/badge61.txt",
+        "hash": "4742308530859619692"
+      },
+      {
+        "file": "assets/badge414.txt",
+        "hash": "8960757992625741760"
+      },
+      {
+        "file": "assets/badge160.txt",
+        "hash": "11936941246232327634"
+      },
+      {
+        "file": "assets/badge424.txt",
+        "hash": "8103402856394440577"
+      },
+      {
+        "file": "assets/badge340.txt",
+        "hash": "18042922006485846568"
+      },
+      {
+        "file": "assets/badge447.txt",
+        "hash": "2330976354026430992"
+      },
+      {
+        "file": "assets/badge401.txt",
+        "hash": "9664317186005291480"
+      },
+      {
+        "file": "assets/badge350.txt",
+        "hash": "4641542139848791759"
+      },
+      {
+        "file": "assets/badge26.txt",
+        "hash": "11207427759046128808"
+      },
+      {
+        "file": "assets/badge168.txt",
+        "hash": "2392523497706262506"
+      },
+      {
+        "file": "assets/badge266.txt",
+        "hash": "12297458874622333328"
+      },
+      {
+        "file": "assets/badge273.txt",
+        "hash": "1025027524836576686"
+      },
+      {
+        "file": "assets/badge375.txt",
+        "hash": "16483449507876275705"
+      },
+      {
+        "file": "assets/badge455.txt",
+        "hash": "1203320282522012362"
+      },
+      {
+        "file": "assets/badge359.txt",
+        "hash": "8208608683333925382"
+      },
+      {
+        "file": "assets/badge25.txt",
+        "hash": "8352394257174736076"
+      },
+      {
+        "file": "script.js",
+        "hash": "3350688429086317556"
+      },
+      {
+        "file": "assets/badge245.txt",
+        "hash": "12262855712924403781"
+      },
+      {
+        "file": "assets/badge111.txt",
+        "hash": "684724163559189592"
+      },
+      {
+        "file": "assets/badge188.txt",
+        "hash": "7763158705164680155"
+      },
+      {
+        "file": "assets/badge271.txt",
+        "hash": "16555158435272053896"
+      },
+      {
+        "file": "assets/badge427.txt",
+        "hash": "945461564110016264"
+      },
+      {
+        "file": "assets/badge150.txt",
+        "hash": "7316680103383494630"
+      },
+      {
+        "file": "assets/badge471.txt",
+        "hash": "10885691058541634123"
+      },
+      {
+        "file": "assets/badge380.txt",
+        "hash": "8492622253074827164"
+      },
+      {
+        "file": "assets/badge167.txt",
+        "hash": "18387257926886718484"
+      },
+      {
+        "file": "assets/badge323.txt",
+        "hash": "8727419197366859526"
+      },
+      {
+        "file": "assets/badge115.txt",
+        "hash": "2675442087407952820"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "12990309872111536764"
+      },
+      {
+        "file": "assets/badge413.txt",
+        "hash": "5584184948700358311"
+      },
+      {
+        "file": "assets/badge441.txt",
+        "hash": "12488155017835318064"
+      },
+      {
+        "file": "assets/badge258.txt",
+        "hash": "1521061121256651409"
+      },
+      {
+        "file": "assets/badge7.txt",
+        "hash": "1029357660820052309"
+      },
+      {
+        "file": "assets/badge191.txt",
+        "hash": "14369166376987343872"
+      },
+      {
+        "file": "assets/badge77.txt",
+        "hash": "9079113174188034746"
+      },
+      {
+        "file": "assets/badge255.txt",
+        "hash": "5872320243812416883"
+      },
+      {
+        "file": "assets/badge357.txt",
+        "hash": "8936547592114931084"
+      },
+      {
+        "file": "assets/badge128.txt",
+        "hash": "5682524260104052876"
+      },
+      {
+        "file": "assets/badge289.txt",
+        "hash": "11671520595308990655"
+      },
+      {
+        "file": "assets/badge86.txt",
+        "hash": "10908719919208409657"
+      },
+      {
+        "file": "assets/badge260.txt",
+        "hash": "1954941221495528337"
+      },
+      {
+        "file": "assets/badge337.txt",
+        "hash": "15459843051193741459"
+      },
+      {
+        "file": "assets/badge21.txt",
+        "hash": "17234087443441576006"
+      },
+      {
+        "file": "assets/badge38.txt",
+        "hash": "7209178046545034267"
+      },
+      {
+        "file": "typescript/example.ts",
+        "hash": "2112630032440929016"
+      },
+      {
+        "file": "assets/badge442.txt",
+        "hash": "9220504915636882201"
+      },
+      {
+        "file": "assets/badge262.txt",
+        "hash": "13894737788487699667"
+      },
+      {
+        "file": "assets/badge398.txt",
+        "hash": "16100672971547260923"
+      },
+      {
+        "file": "assets/badge161.txt",
+        "hash": "4597470890293469934"
+      },
+      {
+        "file": "assets/badge213.txt",
+        "hash": "3467964680876671918"
+      },
+      {
+        "file": "assets/badge219.txt",
+        "hash": "10026373003546333651"
+      },
+      {
+        "file": "assets/badge78.txt",
+        "hash": "2664907832024405501"
+      },
+      {
+        "file": "assets/badge73.txt",
+        "hash": "11697437273952452526"
+      },
+      {
+        "file": "assets/badge232.txt",
+        "hash": "14567457890972750009"
+      },
+      {
+        "file": "assets/badge186.txt",
+        "hash": "2627230173481173367"
+      },
+      {
+        "file": "assets/badge103.txt",
+        "hash": "3180199426162407550"
+      },
+      {
+        "file": "assets/badge204.txt",
+        "hash": "1538751147743984819"
+      },
+      {
+        "file": "assets/badge171.txt",
+        "hash": "10604083717646031987"
+      },
+      {
+        "file": "assets/badge159.txt",
+        "hash": "10401429307457342920"
+      },
+      {
+        "file": "assets/badge251.txt",
+        "hash": "4635807676563874716"
+      },
+      {
+        "file": "assets/badge141.txt",
+        "hash": "6436357745874177140"
+      },
+      {
+        "file": "assets/badge296.txt",
+        "hash": "5732351367385806633"
+      },
+      {
+        "file": "assets/badge295.txt",
+        "hash": "9407256277050966856"
+      },
+      {
+        "file": "assets/badge242.txt",
+        "hash": "16393814832409886707"
+      },
+      {
+        "file": "python/example.py",
+        "hash": "4613202679942422936"
+      },
+      {
+        "file": "assets/badge338.txt",
+        "hash": "16812927602638967725"
+      },
+      {
+        "file": "assets/badge300.txt",
+        "hash": "7043519442905999231"
+      },
+      {
+        "file": "docs/documentation.md",
+        "hash": "6161934804725227180"
+      },
+      {
+        "file": "assets/badge430.txt",
+        "hash": "8491333495193699043"
+      },
+      {
+        "file": "assets/badge190.txt",
+        "hash": "13296744362529343109"
+      },
+      {
+        "file": "assets/badge220.txt",
+        "hash": "6912975444657057367"
+      },
+      {
+        "file": "assets/badge156.txt",
+        "hash": "3741779781683775255"
+      },
+      {
+        "file": "assets/badge247.txt",
+        "hash": "16974494434190020779"
+      },
+      {
+        "file": "assets/badge361.txt",
+        "hash": "328588232902805459"
+      },
+      {
+        "file": "assets/badge292.txt",
+        "hash": "11241370882429797333"
+      },
+      {
+        "file": "assets/badge206.txt",
+        "hash": "2653241156387566231"
+      },
+      {
+        "file": "assets/badge181.txt",
+        "hash": "9738548929928012547"
+      },
+      {
+        "file": "assets/badge283.txt",
+        "hash": "6881847770330956348"
+      },
+      {
+        "file": "assets/badge373.txt",
+        "hash": "15386058795221882509"
+      },
+      {
+        "file": "assets/badge453.txt",
+        "hash": "2741105956896636347"
+      },
+      {
+        "file": "assets/badge36.txt",
+        "hash": "4267063369128363081"
+      },
+      {
+        "file": "assets/badge48.txt",
+        "hash": "13598059020417947457"
+      },
+      {
+        "file": "assets/badge32.txt",
+        "hash": "15653216859567478355"
+      },
+      {
+        "file": "assets/badge132.txt",
+        "hash": "6013846026505109286"
+      },
+      {
+        "file": "assets/badge267.txt",
+        "hash": "15841256224887546383"
+      },
+      {
+        "file": "styles.css",
+        "hash": "14395383938774486274"
+      },
+      {
+        "file": "assets/badge1.png",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "assets/badge246.txt",
+        "hash": "9012011519194518974"
+      },
+      {
+        "file": "assets/badge243.txt",
+        "hash": "4555919532864578154"
+      },
+      {
+        "file": "assets/badge252.txt",
+        "hash": "11991911594312712395"
+      },
+      {
+        "file": "assets/badge164.txt",
+        "hash": "654096683353204752"
+      },
+      {
+        "file": "assets/badge468.txt",
+        "hash": "8262651207135212175"
+      },
+      {
+        "file": "assets/badge237.txt",
+        "hash": "15566577662175137023"
+      },
+      {
+        "file": "assets/badge390.txt",
+        "hash": "924699774154641883"
+      },
+      {
+        "file": "assets/badge99.txt",
+        "hash": "14744667138992078666"
+      },
+      {
+        "file": "assets/badge109.txt",
+        "hash": "16731720689801483922"
+      },
+      {
+        "file": "assets/badge253.txt",
+        "hash": "7025379073918699424"
+      },
+      {
+        "file": "assets/badge354.txt",
+        "hash": "11170125062478829863"
+      },
+      {
+        "file": ".nx/nxw.js",
+        "hash": "11301648124127104610"
+      },
+      {
+        "file": "assets/badge88.txt",
+        "hash": "10119317024727863134"
+      },
+      {
+        "file": "assets/badge366.txt",
+        "hash": "690492441749776538"
+      },
+      {
+        "file": "ruby/example.rb",
+        "hash": "16372765623311904187"
+      },
+      {
+        "file": "assets/badge2.txt",
+        "hash": "1696234224657584523"
+      },
+      {
+        "file": "assets/badge329.txt",
+        "hash": "12303457330611510820"
+      },
+      {
+        "file": "assets/badge192.txt",
+        "hash": "9154392288006353795"
+      },
+      {
+        "file": "xml/example.xml",
+        "hash": "549142096597211509"
+      },
+      {
+        "file": "assets/badge276.txt",
+        "hash": "13761222441677187739"
+      },
+      {
+        "file": "assets/badge187.txt",
+        "hash": "4195056538085571679"
+      },
+      {
+        "file": "assets/badge303.txt",
+        "hash": "17254175075580749389"
+      },
+      {
+        "file": "assets/badge419.txt",
+        "hash": "4623789747681335197"
+      },
+      {
+        "file": "assets/badge211.txt",
+        "hash": "1214749582257765499"
+      },
+      {
+        "file": "assets/badge214.txt",
+        "hash": "6925843534564310322"
+      },
+      {
+        "file": "assets/badge140.txt",
+        "hash": "17633629252079828793"
+      },
+      {
+        "file": "assets/badge264.txt",
+        "hash": "2320626185975084459"
+      },
+      {
+        "file": "assets/badge467.txt",
+        "hash": "7306644567615894999"
+      },
+      {
+        "file": "assets/badge451.txt",
+        "hash": "1715151697080264060"
+      },
+      {
+        "file": "assets/badge120.txt",
+        "hash": "17024876145749538662"
+      },
+      {
+        "file": "assets/badge57.txt",
+        "hash": "12599882258456951371"
+      },
+      {
+        "file": "assets/badge96.txt",
+        "hash": "12771624479865056556"
+      },
+      {
+        "file": "assets/badge460.txt",
+        "hash": "787141879896458615"
+      },
+      {
+        "file": "assets/badge72.txt",
+        "hash": "10342697544864202177"
+      },
+      {
+        "file": "assets/badge11.txt",
+        "hash": "1008561676797777607"
+      },
+      {
+        "file": "assets/badge193.txt",
+        "hash": "7201368159448513233"
+      },
+      {
+        "file": "assets/badge68.txt",
+        "hash": "5040972569215983263"
+      },
+      {
+        "file": "assets/badge234.txt",
+        "hash": "13263594496181610497"
+      },
+      {
+        "file": "assets/badge63.txt",
+        "hash": "6654577982320633324"
+      },
+      {
+        "file": "assets/badge333.txt",
+        "hash": "2261050572532041147"
+      },
+      {
+        "file": "assets/badge363.txt",
+        "hash": "17422214923202384194"
+      },
+      {
+        "file": "assets/badge313.txt",
+        "hash": "4792853369117342359"
+      },
+      {
+        "file": "assets/badge208.txt",
+        "hash": "13820371180898604438"
+      },
+      {
+        "file": "assets/badge221.txt",
+        "hash": "14393449066427539482"
+      },
+      {
+        "file": "assets/badge196.txt",
+        "hash": "17136891955049822311"
+      },
+      {
+        "file": "assets/badge216.txt",
+        "hash": "7032290076779733307"
+      },
+      {
+        "file": "shell/script.sh",
+        "hash": "15400834151781719686"
+      },
+      {
+        "file": "php/example.php",
+        "hash": "10482391778179696405"
+      },
+      {
+        "file": "assets/badge417.txt",
+        "hash": "1046133611598245550"
+      },
+      {
+        "file": "assets/badge306.txt",
+        "hash": "1310802587757635214"
+      },
+      {
+        "file": "assets/badge29.txt",
+        "hash": "5850326939464653738"
+      },
+      {
+        "file": "assets/badge311.txt",
+        "hash": "11599921230702808993"
+      },
+      {
+        "file": "assets/badge265.txt",
+        "hash": "9678327345184453995"
+      },
+      {
+        "file": "assets/badge135.txt",
+        "hash": "16273272588793542355"
+      },
+      {
+        "file": "assets/badge279.txt",
+        "hash": "7953459645327056138"
+      },
+      {
+        "file": "assets/badge83.txt",
+        "hash": "6153794780896876651"
+      },
+      {
+        "file": "assets/badge397.txt",
+        "hash": "11350646607908556566"
+      },
+      {
+        "file": "assets/badge257.txt",
+        "hash": "5315185327725680859"
+      }
+    ],
+    "projectFileMap": {}
+  }
+}

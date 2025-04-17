@@ -1,0 +1,175 @@
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:20.994Z - Started listening on: /var/folders/k4/4gwf_n8s3jl42m2lczvxytdm0000gn/T/e33690e185a5db597039/d.sock
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:20.996Z - [WATCHER]: Subscribed to changes within: /Users/morningstar/Desktop/GitHub-Achievements-Creative (native)
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.003Z - Established a connection. Number of open connections: 1
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.004Z - Established a connection. Number of open connections: 2
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.005Z - Closed a connection. Number of open connections: 1
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.007Z - [REQUEST]: Client Request for Project Graph Received
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.014Z - Time taken for 'loadSpecifiedNxPlugins' 0.9043750000000017ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.055Z - [WATCHER]: Processing file changes in outputs
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.112Z - Time taken for 'Load Nx Plugin: /Users/morningstar/Desktop/GitHub-Achievements-Creative/.nx/installation/node_modules/nx/src/plugins/package-json' 103.76125000000002ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.116Z - Time taken for 'Load Nx Plugin: /Users/morningstar/Desktop/GitHub-Achievements-Creative/.nx/installation/node_modules/nx/src/plugins/js' 108.39675ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.118Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.118Z - [REQUEST]: 
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.118Z - [REQUEST]: 
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.119Z - Time taken for 'loadDefaultNxPlugins' 110.297042ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.127Z - Time taken for 'build-project-configs' 0.8940419999999847ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.129Z - [SYNC]: collect registered sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.129Z - [REQUEST]: Responding to the client. project-graph
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.129Z - Done responding to the client project-graph
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.129Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 122. Response time: 0.
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.129Z - Time taken for 'total for creating and serializing project graph' 122.63808400000002ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.130Z - [REQUEST]: Client Request for Project Graph Received
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.130Z - [REQUEST]: Responding to the client. project-graph
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.130Z - Done responding to the client project-graph
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.130Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 0.
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.130Z - Time taken for 'total for creating and serializing project graph' 0.18587500000001ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.131Z - Established a connection. Number of open connections: 2
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.131Z - [REQUEST]: Client Request for Project Graph Received
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.131Z - [REQUEST]: Responding to the client. project-graph
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.131Z - Done responding to the client project-graph
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.131Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 0.
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:38:21.131Z - Time taken for 'total for creating and serializing project graph' 0.06495799999999008ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:44.442Z - [WATCHER]: push_badges.sh was created or restored
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:44.443Z - [WATCHER]: Processing file changes in outputs
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:44.543Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:44.544Z - [REQUEST]: push_badges.sh
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:44.544Z - [REQUEST]: 
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:44.545Z - Time taken for 'hash changed files from watcher' 0.28641699999570847ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:44.547Z - Time taken for 'build-project-configs' 1.062374999979511ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:44.550Z - [SYNC]: collect registered sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:44.551Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:44.551Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:44.551Z - [REQUEST]: Responding to the client. File watch changed
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:44.551Z - Done responding to the client File watch changed
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:44.551Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:44.551Z - Time taken for 'total execution time for createProjectGraph()' 2.51462500001071ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:45.056Z - [REQUEST]: Client Request for Project Graph Received
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:45.056Z - [REQUEST]: Responding to the client. project-graph
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:45.056Z - Done responding to the client project-graph
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:45.056Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 0.
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:46:45.056Z - Time taken for 'total for creating and serializing project graph' 0.1658750000060536ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.374Z - [WATCHER]: Processing file changes in outputs
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.375Z - [WATCHER]: push_badges.sh was modified
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.375Z - [REQUEST]: Responding to the client. File watch changed
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.375Z - Done responding to the client File watch changed
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.375Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.375Z - Time taken for 'changed-projects' 0.05429200001526624ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.476Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.476Z - [REQUEST]: push_badges.sh
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.476Z - [REQUEST]: 
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.477Z - Time taken for 'hash changed files from watcher' 0.22233300004154444ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.479Z - Time taken for 'build-project-configs' 0.5114579999353737ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.480Z - [SYNC]: collect registered sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.480Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.480Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.480Z - Time taken for 'total execution time for createProjectGraph()' 1.8755420000525191ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.798Z - [WATCHER]: push_badges.sh was modified
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.798Z - [REQUEST]: Responding to the client. File watch changed
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.798Z - Done responding to the client File watch changed
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.798Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.798Z - [WATCHER]: Processing file changes in outputs
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.798Z - Time taken for 'changed-projects' 0.013208999997004867ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.968Z - [WATCHER]: push_badges.sh was modified
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.968Z - [REQUEST]: Responding to the client. File watch changed
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.968Z - Done responding to the client File watch changed
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.968Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.968Z - [WATCHER]: Processing file changes in outputs
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.968Z - Time taken for 'changed-projects' 0.01333300000987947ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.999Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.999Z - [REQUEST]: push_badges.sh
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:05.999Z - [REQUEST]: 
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:06.000Z - Time taken for 'hash changed files from watcher' 0.31220799998845905ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:06.002Z - Time taken for 'build-project-configs' 0.49770800000987947ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:06.003Z - [SYNC]: collect registered sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:06.003Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:06.004Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:06.004Z - Time taken for 'total execution time for createProjectGraph()' 1.503292000037618ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:06.471Z - [REQUEST]: Client Request for Project Graph Received
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:06.471Z - [REQUEST]: Responding to the client. project-graph
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:06.471Z - Done responding to the client project-graph
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:06.471Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 0.
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:06.471Z - Time taken for 'total for creating and serializing project graph' 0.4437910000560805ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.397Z - [WATCHER]: push_badges.sh was modified
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.399Z - [REQUEST]: Responding to the client. File watch changed
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.399Z - Done responding to the client File watch changed
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.399Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.399Z - [WATCHER]: Processing file changes in outputs
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.399Z - Time taken for 'changed-projects' 0.038333000033162534ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.499Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.499Z - [REQUEST]: push_badges.sh
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.499Z - [REQUEST]: 
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.500Z - Time taken for 'hash changed files from watcher' 1.1332499999552965ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.501Z - Time taken for 'build-project-configs' 0.45816699997521937ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.502Z - [SYNC]: collect registered sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.503Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.503Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.503Z - Time taken for 'total execution time for createProjectGraph()' 0.909959000069648ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.901Z - [REQUEST]: Client Request for Project Graph Received
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.902Z - [REQUEST]: Responding to the client. project-graph
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.902Z - Done responding to the client project-graph
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.902Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 0.
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:13.902Z - Time taken for 'total for creating and serializing project graph' 0.4234159999759868ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.109Z - [WATCHER]: push_badges.sh was modified
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.110Z - [REQUEST]: Responding to the client. File watch changed
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.111Z - Done responding to the client File watch changed
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.111Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.111Z - [WATCHER]: Processing file changes in outputs
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.111Z - Time taken for 'changed-projects' 0.05270899995230138ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.212Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.212Z - [REQUEST]: push_badges.sh
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.212Z - [REQUEST]: 
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.214Z - Time taken for 'hash changed files from watcher' 0.9201249999459833ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.218Z - Time taken for 'build-project-configs' 1.5366249999497086ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.221Z - [SYNC]: collect registered sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.222Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.222Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.222Z - Time taken for 'total execution time for createProjectGraph()' 2.7699170000851154ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.613Z - [REQUEST]: Client Request for Project Graph Received
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.613Z - [REQUEST]: Responding to the client. project-graph
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.613Z - Done responding to the client project-graph
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.613Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 0.
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:29.613Z - Time taken for 'total for creating and serializing project graph' 0.22508400003425777ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.020Z - [WATCHER]: push_badges.sh was modified
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.021Z - [REQUEST]: Responding to the client. File watch changed
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.021Z - Done responding to the client File watch changed
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.021Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.021Z - [WATCHER]: Processing file changes in outputs
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.021Z - Time taken for 'changed-projects' 0.045374999986961484ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.121Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.122Z - [REQUEST]: push_badges.sh
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.122Z - [REQUEST]: 
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.123Z - Time taken for 'hash changed files from watcher' 0.7532079999800771ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.127Z - Time taken for 'build-project-configs' 1.2511660000309348ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.130Z - [SYNC]: collect registered sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.131Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.131Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.131Z - Time taken for 'total execution time for createProjectGraph()' 2.8854999999748543ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.523Z - [REQUEST]: Client Request for Project Graph Received
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.524Z - [REQUEST]: Responding to the client. project-graph
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.524Z - Done responding to the client project-graph
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.524Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 0.
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:31.524Z - Time taken for 'total for creating and serializing project graph' 0.3047919999808073ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:40.859Z - [WATCHER]: 0 file(s) created or restored, 0 file(s) modified, 204 file(s) deleted
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:40.859Z - [REQUEST]: Responding to the client. File watch changed
+Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at _write (node:internal/streams/writable:491:11)
+    at Writable.write (node:internal/streams/writable:510:10)
+    at /Users/morningstar/Desktop/GitHub-Achievements-Creative/.nx/installation/node_modules/nx/src/daemon/server/shutdown-utils.js:73:16
+    at new Promise (<anonymous>)
+    at respondToClient (/Users/morningstar/Desktop/GitHub-Achievements-Creative/.nx/installation/node_modules/nx/src/daemon/server/shutdown-utils.js:69:12)
+    at handleResult (/Users/morningstar/Desktop/GitHub-Achievements-Creative/.nx/installation/node_modules/nx/src/daemon/server/server.js:192:52)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Promise.all (index 0)
+    at async /Users/morningstar/Desktop/GitHub-Achievements-Creative/.nx/installation/node_modules/nx/src/daemon/server/file-watching/file-watcher-sockets.js:27:9
+    at async /Users/morningstar/Desktop/GitHub-Achievements-Creative/.nx/installation/node_modules/nx/src/utils/promised-based-queue.js:19:21 {
+  code: 'ERR_STREAM_DESTROYED'
+}
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:40.860Z - Done responding to the client File watch changed
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:40.860Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:40.860Z - [WATCHER]: Processing file changes in outputs
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:40.860Z - Time taken for 'changed-projects' 0.08262500003911555ms
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:40.860Z - Closed a connection. Number of open connections: 1
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:40.860Z - Closed a connection. Number of open connections: 0
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:40.860Z - [WATCHER]: Stopping the watcher for /Users/morningstar/Desktop/GitHub-Achievements-Creative (sources)
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:40.860Z - [WATCHER]: Stopping the watcher for /Users/morningstar/Desktop/GitHub-Achievements-Creative (outputs)
+[NX v20.8.0 Daemon Server] - 2025-04-17T10:47:40.861Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
