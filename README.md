@@ -15,10 +15,10 @@ Here are some of the badges you can earn on GitHub:
 
 | Badge Name          | Description                                      | How to Earn                                      | Badge Logo |
 |---------------------|--------------------------------------------------|-------------------------------------------------|------------|
-| 🎉 First Pull Request | Awarded for making your first pull request.     | [Create a pull request](https://docs.github.com/en/pull-requests) on any repository. | ![First Pull Request](https://example.com/animated-first-pull-request.gif) |
-| 🌟 Starred Repos     | Earned by starring repositories.                 | [Star any repository](https://docs.github.com/en/starring-repositories) you find interesting. | ![Starred Repos](https://example.com/animated-starred-repos.gif) |
-| 🏆 Contributions     | Given for making contributions to repositories.  | [Make commits](https://docs.github.com/en/committing-changes) to any public repository. | ![Contributions](https://example.com/animated-contributions.gif) |
-| 🚀 Repository Creator | Awarded for creating your first repository.     | [Create a new repository](https://docs.github.com/en/repositories/creating-a-repository) on GitHub. | ![Repository Creator](https://example.com/animated-repository-creator.gif) |
+| 🎉 First Pull Request | Awarded for making your first pull request.     | [Create a pull request](https://docs.github.com/en/pull-requests) on any repository. | ![First Pull Request](https://github.githubassets.com/images/modules/site/icons/first-pull-request.svg) |
+| 🌟 Starred Repos     | Earned by starring repositories.                 | [Star any repository](https://docs.github.com/en/starring-repositories) you find interesting. | ![Starred Repos](https://github.githubassets.com/images/modules/site/icons/starred-repo.svg) |
+| 🏆 Contributions     | Given for making contributions to repositories.  | [Make commits](https://docs.github.com/en/committing-changes) to any public repository. | ![Contributions](https://github.githubassets.com/images/modules/site/icons/contributions.svg) |
+| 🚀 Repository Creator | Awarded for creating your first repository.     | [Create a new repository](https://docs.github.com/en/repositories/creating-a-repository) on GitHub. | ![Repository Creator](https://github.githubassets.com/images/modules/site/icons/repo-creator.svg) |
 
 ## Additional Badges
 - **🎖️ GitHub Actions**: Earned by using GitHub Actions in your repositories. [Learn more](https://docs.github.com/en/actions).
