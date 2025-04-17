@@ -1,6 +1,6 @@
-// Unique JavaScript Example
-function uniqueFunction() {
-    return "This is a unique JavaScript function!";
+// Unique JavaScript Function for Feature 2
+function uniqueFunction2() {
+    return "This is a unique JavaScript function for Feature 2!";
 }
 
-console.log(uniqueFunction());
+console.log(uniqueFunction2());
