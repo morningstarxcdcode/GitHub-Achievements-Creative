@@ -20,6 +20,12 @@ Here are some of the badges you can earn on GitHub:
 | 🏆 Contributions     | Given for making contributions to repositories.  | [Make commits](https://docs.github.com/en/committing-changes) to any public repository. | ![Contributions](https://github.githubassets.com/images/modules/site/icons/contributions.svg) |
 | 🚀 Repository Creator | Awarded for creating your first repository.     | [Create a new repository](https://docs.github.com/en/repositories/creating-a-repository) on GitHub. | ![Repository Creator](https://github.githubassets.com/images/modules/site/icons/repo-creator.svg) |
 
+## Branches for Earning Badges
+- [First Pull Request Branch](https://github.com/morningstarxcdcode/GitHub-Achievements-Creative/tree/first-pull-request)
+- [Starred Repos Branch](https://github.com/morningstarxcdcode/GitHub-Achievements-Creative/tree/starred-repos)
+- [Contributions Branch](https://github.com/morningstarxcdcode/GitHub-Achievements-Creative/tree/contributions)
+- [Repository Creator Branch](https://github.com/morningstarxcdcode/GitHub-Achievements-Creative/tree/repository-creator)
+
 ## Additional Badges
 - **🎖️ GitHub Actions**: Earned by using GitHub Actions in your repositories. [Learn more](https://docs.github.com/en/actions).
 - **🔍 Code Review**: Awarded for reviewing pull requests. [Learn more](https://docs.github.com/en/pull-requests/reviewing-changes).
