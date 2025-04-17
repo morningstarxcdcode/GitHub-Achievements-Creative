@@ -1,6 +1,6 @@
-# Unique Python Function for Feature 1
-def unique_function_1():
-    return "This is a unique Python function for Feature 1!"
+# Unique Python Script for Feature 6
+def unique_function_6():
+    return "This is a unique Python script for Feature 6!"
 
 if __name__ == "__main__":
-    print(unique_function_1())
+    print(unique_function_6())
