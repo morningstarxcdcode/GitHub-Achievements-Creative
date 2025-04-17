@@ -1,7 +1,7 @@
 using System;
 
-class Example {
+class UniqueCSharpExample {
     static void Main() {
-        Console.WriteLine("Hello from C#!");
+        Console.WriteLine("This is a unique C# example for Feature 4!");
     }
 }
