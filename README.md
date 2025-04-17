@@ -6,9 +6,33 @@ This project is a unique and creative take on the GitHub Achievements concept, f
 - Dynamic UI with animations
 - Interactive elements to enhance user experience
 - Unique design inspired by the original GitHub Achievements
+- Multiple programming languages and examples
 
 ## Getting Started
 To get started, open the `index.html` file in your web browser.
+
+## Directory Structure
+- **/python/**: Python examples
+- **/javascript/**: JavaScript examples
+- **/java/**: Java examples
+- **/csharp/**: C# examples
+- **/ruby/**: Ruby examples
+- **/html-css/**: HTML and CSS examples
+- **/go/**: Go examples
+- **/php/**: PHP examples
+- **/swift/**: Swift examples
+- **/kotlin/**: Kotlin examples
+- **/typescript/**: TypeScript examples
+- **/shell/**: Shell script examples
+- **/rust/**: Rust examples
+- **/dart/**: Dart examples
+- **/sql/**: SQL examples
+- **/json/**: JSON examples
+- **/xml/**: XML examples
+- **/yaml/**: YAML examples
+- **/markdown/**: Markdown examples
+- **/assets/**: Images and icons
+- **/docs/**: Documentation
 
 ## Badges
 Here are some of the badges you can earn on GitHub:
