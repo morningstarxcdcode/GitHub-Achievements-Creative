@@ -21,10 +21,12 @@ Here are some of the badges you can earn on GitHub:
 | 🚀 Repository Creator | Awarded for creating your first repository.     | [Create a new repository](https://docs.github.com/en/repositories/creating-a-repository) on GitHub. | ![Repository Creator](https://github.githubassets.com/images/modules/site/icons/repo-creator.svg) |
 
 ## Branches for Earning Badges
-- [First Pull Request Branch](https://github.com/morningstarxcdcode/GitHub-Achievements-Creative/tree/first-pull-request)
-- [Starred Repos Branch](https://github.com/morningstarxcdcode/GitHub-Achievements-Creative/tree/starred-repos)
-- [Contributions Branch](https://github.com/morningstarxcdcode/GitHub-Achievements-Creative/tree/contributions)
-- [Repository Creator Branch](https://github.com/morningstarxcdcode/GitHub-Achievements-Creative/tree/repository-creator)
+You can earn badges by clicking on the following branches:
+- [First Pull Request Branch](https://github.com/morningstarxcdcode/GitHub-Achievements-Creative/tree/badge-1)
+- [Starred Repos Branch](https://github.com/morningstarxcdcode/GitHub-Achievements-Creative/tree/badge-2)
+- [Contributions Branch](https://github.com/morningstarxcdcode/GitHub-Achievements-Creative/tree/badge-3)
+- [Repository Creator Branch](https://github.com/morningstarxcdcode/GitHub-Achievements-Creative/tree/badge-4)
+- ... (and so on for all 30 badges)
 
 ## Additional Badges
 - **🎖️ GitHub Actions**: Earned by using GitHub Actions in your repositories. [Learn more](https://docs.github.com/en/actions).
