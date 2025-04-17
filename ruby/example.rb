@@ -1,6 +1,6 @@
-# Unique Ruby Example
-def unique_function
-    "This is a unique Ruby function!"
+# Unique Ruby Example for Feature 5
+def unique_function_5
+    "This is a unique Ruby function for Feature 5!"
 end
 
-puts unique_function
+puts unique_function_5
