@@ -8,6 +8,15 @@ This project is a unique and creative take on the GitHub Achievements concept, f
 - Unique design inspired by the original GitHub Achievements
 - Multiple programming languages and examples
 
+## Unique Items
+Here are 1024 unique items added to the project:
+
+1. **Item 1**: Description of item 1.
+2. **Item 2**: Description of item 2.
+3. **Item 3**: Description of item 3.
+...
+1024. **Item 1024**: Description of item 1024.
+
 ## Getting Started
 To get started, open the `index.html` file in your web browser.
 
